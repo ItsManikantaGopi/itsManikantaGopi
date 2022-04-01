@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manikanta Gopi  
-- 👀 I’m interested in Deep Learning with python , Application Development using flutter.
-- 
+- Curious cat with Materialistic Mind, Always Strives to build something Unique.
+- Technologies - Python, Deep Learning, Machine Learning, Flutter, Ruby on Rails.
 - 
 <!---
 renrael-yzal/renrael-yzal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
