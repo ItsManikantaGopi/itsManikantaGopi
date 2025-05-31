@@ -16,7 +16,7 @@
 
 > **Building scalable systems that handle high-volume traffic while optimizing for performance and reliability**
 
-🔥 **Software Engineer II** at **Circleapp Online Services** with **2.5+ years** of hands-on experience
+🔥 **Software Engineer II** at **Circleapp Online Services** with **3+ years** of hands-on experience
 ⚡ **Performance Optimization**: Reduced API response times by **200ms** through CDN integration
 🌐 **Scale**: Developed high-throughput real-time messaging systems
 ☁️ **Multi-Cloud Expert**: Proficient across **AWS, GCP, and Azure** platforms
