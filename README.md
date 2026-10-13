@@ -1,6 +1,6 @@
 ## Hi, I'm Manikanta Gopi 👋
 
-**Senior Backend & Platform Engineer** · Hyderabad, India · Founder of [Chithraguptha](https://chithraguptha.site) and SoloSyncTech
+**Senior Backend & Platform Engineer** · Hyderabad, India · Founder of SoloSyncTech
 
 I build backend systems and cloud infrastructure that stay reliable — and affordable — as they scale. Five years on production platforms: Rails, Go and NestJS services, real-time systems, media pipelines and a GitOps-managed Kubernetes fleet on AWS.
 
@@ -15,7 +15,6 @@ I build backend systems and cloud infrastructure that stay reliable — and affo
 
 | Product | What it is |
 | --- | --- |
-| [Manvori](https://chithraguptha.site) | Telugu-first reflection companion: Panchanga, Kundali and grounded AI conversation (Flutter, Go, MongoDB) |
 | [SoloSync](https://app.solosync.live) | Developer platform for the WhatsApp messaging APIs |
 | [Nivaro Recruiter](https://screen.solosync.live) | AI hiring-operations workspace for resume screening and assessments |
 
