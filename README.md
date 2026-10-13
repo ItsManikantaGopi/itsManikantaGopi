@@ -28,6 +28,6 @@ I build backend systems and cloud infrastructure that stay reliable — and affo
 
 I take on fixed-scope engagements for startups: **cloud cost reviews, backend architecture reviews, Kubernetes/AWS setups and migrations, MVP builds and WhatsApp API integrations.**
 
-**[Portfolio & services →](https://manikantagopi.com)** · [LinkedIn](https://www.linkedin.com/in/gopimanikanta/) · [Medium](https://medium.com/@gopimanikanta) · [Email](mailto:gopimanikanta50@gmail.com)
+**[Book a free intro call →](https://topmate.io/gopi_manikanta)** · [Portfolio & services](https://manikantagopi.com) · [LinkedIn](https://www.linkedin.com/in/gopimanikanta/) · [Medium](https://medium.com/@gopimanikanta) · [Email](mailto:gopimanikanta50@gmail.com)
 
 `Ruby on Rails` `Go` `NestJS` `TypeScript` `Python` `Kubernetes` `Terraform` `AWS` `Redis` `MySQL` `MongoDB`
